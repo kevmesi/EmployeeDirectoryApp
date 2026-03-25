@@ -1,4 +1,4 @@
-# Employee Directory Spring Boot App wiht Thymeleaf
+# Employee Directory Spring Boot App with Thymeleaf
 
 Task: Design an app to track employees in a web browser.
 
